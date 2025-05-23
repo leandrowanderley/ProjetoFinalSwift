@@ -1,6 +1,7 @@
 # 📝 ToDoPriori — Projeto Final do Curso de Swift
 
-Este repositório contém o playground com a **implementação completa** do projeto **ToDoPriori**, desenvolvido por mim como **exemplo prático do projeto final** do curso de Swift que ministro. Os alunos podem utilizar este código como **referência** para tirar dúvidas ou revisar os conceitos aplicados.
+Este repositório contém o playground com a **implementação completa** do projeto **ToDoPriori**, desenvolvido por mim como **exemplo prático do projeto final** do **Curso de Swift da Oxetech Maceió**, ministrado por mim, **Leandro Wanderley Cavalcante**.  
+Os alunos podem utilizar este código como **referência** para tirar dúvidas ou revisar os conceitos aplicados.
 
 ## 🧑‍🏫 Sobre o Projeto
 
